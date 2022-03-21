@@ -1,133 +1,153 @@
+<a href="https://bit.ly/3koZRGY"><img src="https://i.imgur.com/QUTMZUm.jpeg" alt="google-font" border="0"></a>
+<div align="center">
+        <img src="CARLOX-MASS-SER.jpg"/>
+</p>
+
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F045EB&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙍𝙐𝘿𝙃𝙍𝘼+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙋𝙍𝙄𝙉𝘾𝙀+𝙍𝙐𝘿𝙃;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
+## [![Lilly-mwol](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+lillymwol+WA+Bot+repo;Created+by+Carlox-ser-mass-ser;This+is+the+Best++Bgm+bot;CREATED+BY+Carlox-ser-mass-ser)](https://bit.ly/2VM4lxF)
 
+        
+        
+        
+        
+        
+        
+        
+        
  </a>
 </p>
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/sJCpf2j.jpeg" width="300" height="300"/>
-  <p align="center">
-<a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <p align="center">
+<a href="#"><img title="CARLOX-SER-MASS-SER" src="https://img.shields.io/badge/CARLOX-SER-MASS-SER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/prince-rudh"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Carlox-ser-mass-ser"><img title="Author" src="https://img.shields.io/badge/Author-Carlox-mass-ser/lillymwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/prince-rudh">Prince-Rudh</a> to make it public
+Project created by <a href="https://github.com/Carlox-ser-mass-ser/Lilly-mwol">Carlox-mass-ser</a> to make it public
     <br>
-       | © |
+       | Â© |
         Reserved |
     <br> 
 </p>
 
+----
+
+<h3 align="center">IG@MASS-SER</h3>
+<p align="center">
+<a href="https://instagram.com/mass.ff?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+</p>
+<h3 align="center"></h3>
+<h3 align="center">IG@CARLOX-SER</h3>
+<a href="https://instagram.com/__.carlox.__?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+</p>
+<h4 align="center">IƬ'Ƨ MΣ-ＬＩＬＬＹ ＭＷＯＬ</h4>
+<p align="center">
+
+  
+
+<p align="center">
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Carlox-mass-ser&show_icons=true&theme=dark&locale=en" alt="Carlox-mass-ser" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Carlox-mass-ser&theme=dark" alt="Carlox-ser-mass-ser" /></p>
+</p>
+
+
+##
+  <h3 align="center">ðŸ“¢ Support Group 1:</h3>
+<p align="center">
+Click WA logo to Join Support Group ðŸ‘‡
+    <br>
+<br>
+  <a href="https://chat.whatsapp.com/BcR51OKZoreHnLJl40xkIN" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+</p>
+
+## 
+  <h3 align="center">ðŸ“¢ Support Group 2:</h3>
+<p align="center">
+Click Lilly-Mwol logo to Join Support Group 2ðŸ‘‡
+    <br>
+<br>
+  <a href="https://chat.whatsapp.com/BcR51OKZoreHnLJl40xkIN target="blank"><img align="center" src="https://i.imgur.com/bLMrXqz.png" alt="kyrie.baran" height="200" width="200" /></a>
+</p>
+    
 ## Setup
 <div align="center">
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@PrinceRudh/Rudhra-QR)
+[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@CarloxMassser/pikachu-QR-4)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Carlox-ser-mass-ser/Lilly-mwol.git)
      </div>
 <br>
-If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
-```
-bash <(curl -L https://t.ly/tHxh)
-``` 
-  ### If there is an error deploying, try the following steps
-  
-1. If you dont have a github account create a account. Click [GIT HUB SIGN UP](https://github.com/signup/)
-
-2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR code Click [SCAN](https://replit.com/@PrinceRudh/Rudhra-QR?v=1)
+<br >
  
-3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
+<div align="center">
 
-4. You will have to fork this git to deploy via Heroku.
-  click to fork the git into your account
- Click [FORK](https://github.com/prince-rudh/Rudhra/fork)
-
-5. Now https://heroku.com/deploy?template=https://github.com/prince-rudh/Rudhra copy this url and change prince-rudh with your github username and click go<br>
-
-----
-
-<h3 align="center">Contact Me:</h3>
-<p align="center">
-<a href="https://instagram.com/princerudh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
-</p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
-<p align="center">
-<a href="https://youtu.be/zUGBjETc7PA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
-</p>
-
-  <p align="center">
-  <a href="httsp://github.com/prince-rudh/Rudhra">
-    <img src="https://img.shields.io/github/repo-size/prince-rudh/Rudhra?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/prince-rudh/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=blue&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/prince-rudh/Rudhra?color=blue&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra/network/members"><img title="Forks" src="https://img.shields.io/github/forks/prince-rudh/Rudhra?color=blue&style=flat-square"></a>
-<a href="https://github.com/prince-rudh/Rudhra/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/prince-rudh/Rudhra?label=Watchers&color=blue&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
-</p>
-
-## 📢 Guide
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP)
-  <div align="center">
-       
-  </div>
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
+ 
+ <div align="left">
   
+  If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
+bash <(curl -L https://t.ly/tHxh)
+            
 ### The Hard Method
-```js
+js
 GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/prince-rudh/Rudhra
-$ cd Rudhra
+$ git clone https://github.com/Carlox-ser-mass-ser/Lilly-mwol
+$ cd Lilly-mwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node qr.js
-```
+
       
-```js
+js
 SETUP
-$ git clone https://github.com/prince-rudh/Rudhra
-$ cd Rudhra
+$ git clone https://github.com/Carlox-ser-mass-ser/Lilly-mwol
+$ cd Lillymwol
 $ chmod +x *
 $ npm i
 $ node qr.js
    // scan the qr using whatsapp web on your phone
 $ node bot.js
-```
 
 
-### ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
+
+### âš ï¸ Warning! 
+
+Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
+Absolutely, Lilly-mwol-ser executives do not accept responsibility.
+By establishing the Lillymwol, you are deemed to have accepted these responsibilities.
 
-## Developer
+
+## Developers
   <div align="center">
     
-  [![`Prince Rudh`](https://github.com/prince-rudh.png?size=200)](https://github.com/princerudh)
+  MASS-SER
+            CARLOX-SER
+         
 
-[`Prince Rudh`](https://github.com/princerudh)  
-Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
+MASS-SER-CARLOX:-(https://github.com/Carlox-ser-mass-ser) 
   </div>
-    
 
+## Contributors
+`MASS-SER`
+`CARLOX-SER`
+`Alien-Alfa`
 
+        
+        
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
-
